@@ -22,7 +22,7 @@
         "gmail chrome extension"
     ],
     "dependencies": {
-        "jquery": "^1.10.2"
+        "jquery": "^3.4.0"
     },
     "devDependencies": {
         "@types/jquery": "^1.10.27",
